@@ -4,7 +4,7 @@
 
 ## 🌟 About
 
-This project is about test cases for (https://www.automationexercise.com/api_list) implementation in Postman
+This project is about test cases for [AutomationExercise.com] (https://www.automationexercise.com/api_list) implementation in Postman
 
 ## 🛹 Introduction to Postman
 
